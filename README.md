@@ -7,7 +7,7 @@ In 30+ years of working with computers, I have become an skilled in all areas of
 # 💻Featured Skills:
 
 ###  Procedural and OOP languages:
-![PHP](https://img.shields.io/badge/php-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%2300599php.svg?style=for-the-badge&logophp&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
